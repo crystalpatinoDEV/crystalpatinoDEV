@@ -8,4 +8,4 @@ Psychology taught me how people think and behave; now I want to build the tools 
 - 💻 Currently learning: [Python / JavaScript / HTML & CSS]
 - 🌱 Working on: my first projects — see below
 - 🎯 Interested in: software engineering, UX research, and data analysis
-- 📫 Reach me: [LinkedIn URL] · crystalpatino05@gmail.com
+- 📫 Reach me: [[LinkedIn URL](https://www.linkedin.com/in/crystal-patino/)] · crystalpatino05@gmail.com
